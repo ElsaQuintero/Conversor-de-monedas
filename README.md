@@ -30,7 +30,3 @@ Este proyecto consiste en un convertidor de monedas que permite a los usuarios c
 
 - Java 11 o superior.
 - Acceso a Internet para obtener las tasas de cambio de la API.
-
----
-
-Si necesitas agregar más información sobre cómo configurar el proyecto, instrucciones de instalación, o cualquier otro detalle, no dudes en hacerlo.
